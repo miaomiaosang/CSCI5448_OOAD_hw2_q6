@@ -26,5 +26,5 @@ sort.sortShape(shape_list)
 print("The shape list database contains "+str(len(shape_list))+" shapes.")
 
 for item in shape_list:
-    item.display(item.order,item.x_location,item.y_location)
+    item.display(item.getOrder(),item.getX(),item.getY())
 
