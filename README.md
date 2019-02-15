@@ -19,4 +19,6 @@ The class shape contains a variable called order. This variable is used to sort 
 
 In the main class(main.py, the controlling program), I initiated a shape database manually
 
+The sort_2 class is used to sort the list("shape database"). 
+
 Thank you for checking!
