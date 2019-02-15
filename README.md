@@ -16,5 +16,7 @@ Square displayed, z index = 7, location x: 15, y: 1
 Circle displayed, z index = 10, location x: 6, y: 3
 
 The class shape contains a variable called order. This variable is used to sort the shape. The class shape also contains variables x and y, which are used to indicate the location of shape displaying.
+
 In the main class(main.py, the controlling program), I initiated a shape database manually
+
 Thank you for checking!
